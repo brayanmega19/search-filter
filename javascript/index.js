@@ -1,0 +1,1 @@
+import searchFilters from "./searcher";
